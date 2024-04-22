@@ -15,3 +15,21 @@ Comecei a estudar programação em 2023, com a École 42 de SP, onde fiquei um m
 Como uma pessoa muito curiosa, já tive muitos hobbies, muitos mesmo. Gosto de achar padrões nas coisas e poder traduzir isso para outras pessoas me encanta. Já estudei mais de um instrumento musical (amo quando encontro trechos semelhantes em músicas diferentes), amo idiomas, gosto de me movimentar (estou há dois anos tentando conquistar a parada de mão!) e pratico muito Yôga pra segurar a vontade que eu tenho de que o meu dia tivesse 72h!
 
 Estou animada com a oportunidade de contribuir para a Compass e aproveitar ao máximo essa experiência incrível!
+
+## Links Para Contato
+
+* Email: [barobles.dev@gmail.com](mailto:barobles.dev@gmail.com)
+* LinkedIn: [https://www.linkedin.com/in/barbararoblesvillela/](https://www.linkedin.com/in/barbararoblesvillela/)
+
+## Sobre O Repositório
+
+Este repositório é o resultado de estudos sobre Ciência de Dados. Abaixo seguem os tópicos aprendidos até o momento:
+
+* GitHub
+* Python
+* SQL
+* PySpark
+* Pandas
+* Estatística
+
+* Sprint 1 - Análise de um dataset utilizando Pandas.
