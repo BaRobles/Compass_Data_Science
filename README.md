@@ -26,10 +26,14 @@ Estou animada com a oportunidade de contribuir para a Compass e aproveitar ao m�
 Este repositório é o resultado de estudos sobre Ciência de Dados. Abaixo seguem os tópicos aprendidos até o momento:
 
 * GitHub
-* Python
+* Python (pandas, pyspark, numpy, scikit learn, pipeline, matplotlib, seaborn)
 * SQL
-* PySpark
-* Pandas
 * Estatística
+* Machine Learning
+* Hiperparâmetros
+* Análise de Risco de Crédito
 
-* Sprint 1 - Análise de um dataset utilizando Pandas.
+* [Sprint 1](https://github.com/BaRobles/Compass_Data_Science/blob/main/Sprint%201/1.Sprint.Compass.ipynb) - Análise do dataset do 'olist'.
+* [Sprint 2](https://github.com/BaRobles/Compass_Data_Science/blob/main/Sprint-2/Sprint%202.ipynb) – Molelo de Regressão para Prever o Preço de Carros usando 'cars.csv'.
+* [Sprint 3](https://github.com/BaRobles/Compass_Data_Science/blob/main/Sprint-3/Sprint3.ipynb) - Modelo de Previsão de Risco de Crédito
+[Video apresentação do Sprint 3](https://drive.google.com/file/d/1DNJVSmOs6orlCLDCK_IeSXAUwziBbOcf/view?usp=share_link)
